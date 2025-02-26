@@ -97,6 +97,3 @@ func main() {
 	log.Fatal(srv.ListenAndServe())
 }
 
-func unused() {
-	// This function is here to make sure that the linter is working
-}
